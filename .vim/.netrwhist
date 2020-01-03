@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/batorni/Projects/afdx/network/relay_task/verification/config_vector/lpga_hardware'
-let g:netrw_dirhist_2='/home/batorni/Projects/afdx/network/relay_task/verification/config_vector'
-let g:netrw_dirhist_3='/home/batorni/Projects/afdx/network/relay_task/verification_afdx/config_vector'
-let g:netrw_dirhist_4='/home/batorni/Projects/afdx/network/relay_task/verification/config_vector'
-let g:netrw_dirhist_5='/home/batorni/Projects/afdx/network/relay_task/verification_afdx/config_vector'
-let g:netrw_dirhist_6='/home/batorni/Projects/afdx/network/config/default'
